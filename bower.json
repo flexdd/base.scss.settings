@@ -1,0 +1,27 @@
+
+{
+  "name": "Flexdd Settings",
+  "version": "1.0.0",
+  "authors": [
+    "Adam Bulmer <mintuz1990@gmail.com>"
+  ],
+  "main": "_base.settings.scss",
+  "keywords": [
+    "Flexdd",
+    "Sass",
+    "Package",
+    "Frontend Framework",
+    "Objects",
+    "Compass",
+    "Frontend Boilerplate"
+  ],
+  "license": "MIT",
+  "homepage": "http://mintuz.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
